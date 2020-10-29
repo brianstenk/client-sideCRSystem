@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Users\\CTI Telemedicine\\OneDrive\\Computer Science\\WAP\\MyWork\\w1day5"
+		},
+		{
+			"path": "..\\..\\WAP\\CS472\\brianstenk.github.io"
+		},
+		{
+			"path": "..\\..\\WAP\\CS472\\brianstenk.github.io\\BootstrapCss"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "brianstenk.github.io",
+		"maven.view": "hierarchical"
+	}
+}
